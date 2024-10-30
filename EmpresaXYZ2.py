@@ -1,3 +1,11 @@
+"""
+Integrantes:
+Hou, Edwin	        8-1021-1916
+Arosemena, Miguel	8-1016-2330
+Corrales, Diego		8-1001-1890
+Camaño, Edward		8-1010-515
+Pino, Josué		    8-1012-688
+"""
 import time
 
 # Función para ingresar las ventas diarias durante una semana
@@ -39,3 +47,4 @@ fin_total = time.time()  # Termina el temporizador total
 # Calcula y muestra el tiempo total de ejecución
 tiempo_total = fin_total - inicio_total
 print(f"Tiempo total de ejecución del programa: {tiempo_total:.2f} segundos\n")
+
